@@ -15,4 +15,6 @@ This project demonstrates a basic **pitch deck** layout that allows users to nav
 
 ---
 
+![Portfolio Screenshot](https://res.cloudinary.com/doypx7azh/image/upload/v1731733278/localhost_5173__Nest_Hub_Max_txcgbd.png)
+
 
